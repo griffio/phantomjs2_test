@@ -1,5 +1,5 @@
 {
-  "name": "phantomjs2)-test",
+  "name": "phantomjs2-test",
   "version": "1.0.0",
   "description": "",
   "repository": {
@@ -17,5 +17,8 @@
   "homepage": "",
   "devDependencies": {
     "phantomjs2": "^2.0.0"
+  },
+  "scripts": {
+	"test": "phantomjs test01.js" 
   }
 }
