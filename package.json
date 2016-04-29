@@ -1,0 +1,21 @@
+{
+  "name": "phantomjs2)-test",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/griffio/phantomjs2_test.git"
+  },
+  "keywords": [
+    "phantomjs"
+  ],
+  "author": "griffio",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "phantomjs2": "^2.0.0"
+  }
+}
