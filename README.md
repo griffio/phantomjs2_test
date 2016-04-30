@@ -1,9 +1,19 @@
 # phantomjs2_test
 
-phantomjs2
+Travis-CI environment - standard
 
-TravisCI environment - trusty
+with phantomjs2
+
+https://www.npmjs.com/package/phantomjs2
 
 ```
-PHANTOMJS_DOWNLOADURL="https://github.com/bprodoehl/phantomjs/releases/download/v2.0.0-20150528/phantomjs-2.0.0-20150528-u1404-x86_64.zip"
+PHANTOMJS_DOWNLOADURL="https://s3.amazonaws.com/travis-phantomjs/phantomjs-2.0.0-ubuntu-12.04.tar.bz2"
 ```
+---
+Travis-CI environment - trusty
+
+with phantomjs-prebuilt
+
+https://www.npmjs.com/package/phantomjs-prebuilt  -> phantomjs2 2.1.1
+
+
