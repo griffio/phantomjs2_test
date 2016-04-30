@@ -16,9 +16,9 @@
   },
   "homepage": "",
   "devDependencies": {
-    "phantomjs2": "^2.0.0"
+    "phantomjs-prebuilt": "2.1.7"
   },
   "scripts": {
-	"test": "phantomjs test01.js" 
+	"test": "bin/phantomjs test01.js" 
   }
 }
