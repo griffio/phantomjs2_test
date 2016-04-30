@@ -2,7 +2,7 @@
 
 Travis-CI environment - standard
 
-with phantomjs2
+with dependency phantomjs2
 
 https://www.npmjs.com/package/phantomjs2
 
@@ -12,7 +12,7 @@ PHANTOMJS_DOWNLOADURL="https://s3.amazonaws.com/travis-phantomjs/phantomjs-2.0.0
 ---
 Travis-CI environment - trusty
 
-with phantomjs-prebuilt
+with dependency phantomjs-prebuilt
 
 https://www.npmjs.com/package/phantomjs-prebuilt  -> phantomjs2 2.1.1
 
