@@ -19,6 +19,6 @@
     "phantomjs2": "^2.0.0"
   },
   "scripts": {
-	"test": "node_modules/phantomjs2/lib/phantom/bin/phantomjs test01.js" 
+	"test": "phantomjs test01.js" 
   }
 }
