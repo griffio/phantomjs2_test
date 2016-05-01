@@ -1,5 +1,9 @@
 # phantomjs2_test
 
+### PhantomJS 2 on Travis CI
+
+https://github.com/travis-ci/travis-ci/issues/3225
+
 Travis-CI environment - standard
 
 with dependency phantomjs2
